@@ -1,0 +1,56 @@
+[
+  {
+    "id": "samp-pc-client",
+    "title": "SAMP کلاینت ویندوز",
+    "description": "نسخه اصلی و رسمی کلاینت SAMP برای ویندوز",
+    "fileSize": "۲.۵ مگابایت",
+    "version": "۰.۳.۷-R۴",
+    "downloadUrl": "https://files.sa-mp.com/sa-mp-0.3.7-R4-install.exe",
+    "type": "pc"
+  },
+  {
+    "id": "gta-sa-pc",
+    "title": "GTA: San Andreas (نسخه ۱.۰)",
+    "description": "نسخه سازگار با SAMP بازی GTA: San Andreas",
+    "fileSize": "۳.۹ گیگابایت",
+    "version": "۱.۰",
+    "downloadUrl": "#",
+    "type": "pc"
+  },
+  {
+    "id": "samp-mobile-client",
+    "title": "SAMP Mobile",
+    "description": "کلاینت غیررسمی SAMP برای دستگاه‌های اندروید",
+    "fileSize": "۸۵ مگابایت",
+    "version": "۰.۳.۲",
+    "downloadUrl": "#",
+    "type": "mobile"
+  },
+  {
+    "id": "gta-sa-mobile",
+    "title": "GTA: San Andreas برای اندروید",
+    "description": "نسخه موبایل بازی GTA: San Andreas",
+    "fileSize": "۲.۱ گیگابایت",
+    "version": "۲.۱۰",
+    "downloadUrl": "#",
+    "type": "mobile"
+  },
+  {
+    "id": "samp-mods",
+    "title": "پکیج مودهای گرافیکی",
+    "description": "مجموعه‌ای از مودهای گرافیکی برای بهبود کیفیت بازی",
+    "fileSize": "۵۶۰ مگابایت",
+    "version": "۲.۰",
+    "downloadUrl": "#",
+    "type": "pc"
+  },
+  {
+    "id": "samp-launcher",
+    "title": "لانچر پیشرفته SAMP",
+    "description": "لانچر اختصاصی با امکانات پیشرفته برای مدیریت سرورها و تنظیمات",
+    "fileSize": "۱۸ مگابایت",
+    "version": "۱.۵.۳",
+    "downloadUrl": "#",
+    "type": "pc"
+  }
+]
